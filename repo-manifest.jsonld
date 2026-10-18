@@ -8,7 +8,8 @@
     {
       "@id": "https://repolex.ai/r/Delgan/loguru/commit/bce5dfd3b435b1d1658507d7e095ad7a9919bf1c",
       "git:hexsha": "bce5dfd3b435b1d1658507d7e095ad7a9919bf1c",
-      "repolex:parseStatus": "ast_complete"
+      "repolex:parseStatus": "parsed",
+      "repolex:parsedAt": "2026-10-18T04:25:06.970007+00:00"
     },
     {
       "@id": "https://repolex.ai/r/Delgan/loguru/commit/03fee72c2aaadc523b7a331eb9f34c43a36dff7a",
