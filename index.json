@@ -1,0 +1,11 @@
+{
+  "org": "Delgan",
+  "repo": "loguru",
+  "versions": [
+    {
+      "commit": "bce5dfd3b435b1d1658507d7e095ad7a9919bf1c",
+      "tag": "",
+      "parsed_at": "2026-10-18T04:25:06.970587+00:00"
+    }
+  ]
+}
