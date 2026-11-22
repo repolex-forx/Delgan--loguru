@@ -707,6 +707,198 @@
       ],
       "ast": [
         "aggregate/ast/ae3bfd1b85b6b4a3db535f69b975687c79498be4/chunk-001.nq.gz"
+      ],
+      "lsp": "aggregate/lsp/ae3bfd1b85b6b4a3db535f69b975687c79498be4.nq.gz",
+      "dependencies": [
+        {
+          "packageName": "colorama",
+          "ecosystem": "PYPI",
+          "version": "0.3.4",
+          "githubOrg": "tartley",
+          "githubRepo": "colorama",
+          "githubCommit": "09aa6affdeff5265f001df097bfe41323f6b0aab",
+          "githubTag": "v0.3.4",
+          "githubUrl": "https://github.com/tartley/colorama",
+          "source": "build_file:pyproject.toml"
+        },
+        {
+          "packageName": "aiocontextvars",
+          "ecosystem": "PYPI",
+          "version": "0.2.0",
+          "githubOrg": "fantix",
+          "githubRepo": "aiocontextvars",
+          "githubCommit": "cdc7bbb662351705266305a601cf1c0b0f730012",
+          "githubTag": "v0.2.0",
+          "githubUrl": "https://github.com/fantix/aiocontextvars",
+          "source": "build_file:pyproject.toml"
+        },
+        {
+          "packageName": "win32-setctime",
+          "ecosystem": "PYPI",
+          "version": "1.0.0",
+          "githubOrg": "Delgan",
+          "githubRepo": "win32-setctime",
+          "githubCommit": "a9a3bca265c606c0f496bcb3f90708ba8a43dfa0",
+          "githubTag": "1.0.0",
+          "githubUrl": "https://github.com/Delgan/win32-setctime",
+          "source": "build_file:pyproject.toml"
+        },
+        {
+          "packageName": "pre-commit",
+          "ecosystem": "PYPI",
+          "version": "4.0.1",
+          "githubOrg": "pre-commit",
+          "githubRepo": "pre-commit",
+          "githubCommit": "cc4a52241565440ce200666799eef70626457488",
+          "githubTag": "v4.0.1",
+          "githubUrl": "https://github.com/pre-commit/pre-commit",
+          "source": "build_file:pyproject.toml"
+        },
+        {
+          "packageName": "tox",
+          "ecosystem": "PYPI",
+          "version": "3.27.1",
+          "githubOrg": "tox-dev",
+          "githubRepo": "tox",
+          "githubCommit": "1d5d3b8df20d3911b47b696aa4f78207f843db28",
+          "githubTag": "3.27.1",
+          "githubUrl": "https://github.com/tox-dev/tox",
+          "source": "build_file:pyproject.toml"
+        },
+        {
+          "packageName": "pytest",
+          "ecosystem": "PYPI",
+          "version": "6.1.2",
+          "githubOrg": "pytest-dev",
+          "githubRepo": "pytest",
+          "githubCommit": "4e8b50ba01f0d8a6a2abb98440d3421a037eddb7",
+          "githubTag": "6.1.2",
+          "githubUrl": "https://github.com/pytest-dev/pytest",
+          "source": "build_file:pyproject.toml"
+        },
+        {
+          "packageName": "pytest-cov",
+          "ecosystem": "PYPI",
+          "version": "2.12.1",
+          "githubOrg": "pytest-dev",
+          "githubRepo": "pytest-cov",
+          "githubCommit": "67d49b9e06cbc1cace3fc2cdfe70b09f55d1726f",
+          "githubTag": "v2.12.1",
+          "githubUrl": "https://github.com/pytest-dev/pytest-cov",
+          "source": "build_file:pyproject.toml"
+        },
+        {
+          "packageName": "pytest-mypy-plugins",
+          "ecosystem": "PYPI",
+          "version": "1.9.3",
+          "githubOrg": "TypedDjango",
+          "githubRepo": "pytest-mypy-plugins",
+          "githubCommit": "337d8048fe02cbf68df7de69337999ee61af05d3",
+          "githubTag": "1.9.3",
+          "githubUrl": "https://github.com/TypedDjango/pytest-mypy-plugins",
+          "source": "build_file:pyproject.toml"
+        },
+        {
+          "packageName": "freezegun",
+          "ecosystem": "PYPI",
+          "version": "1.1.0",
+          "githubOrg": "spulec",
+          "githubRepo": "freezegun",
+          "githubCommit": "efa697c35fc05021377d1bb0819305fe111d7572",
+          "githubTag": "1.1.0",
+          "githubUrl": "https://github.com/spulec/freezegun",
+          "source": "build_file:pyproject.toml"
+        },
+        {
+          "packageName": "exceptiongroup",
+          "ecosystem": "PYPI",
+          "version": "1.1.3",
+          "githubOrg": "agronholm",
+          "githubRepo": "exceptiongroup",
+          "githubCommit": "31d77ffefa298eb6ab73a97c8cde0c3d5a535983",
+          "githubTag": "1.1.3",
+          "githubUrl": "https://github.com/agronholm/exceptiongroup",
+          "source": "build_file:pyproject.toml"
+        },
+        {
+          "packageName": "mypy",
+          "ecosystem": "PYPI",
+          "version": "2.4.1",
+          "githubOrg": "python",
+          "githubRepo": "mypy",
+          "githubCommit": "ad02a35e623d105ab7340f75558716bc09f8242e",
+          "githubTag": "v2.4.1",
+          "githubUrl": "https://github.com/python/mypy",
+          "source": "build_file:pyproject.toml"
+        },
+        {
+          "packageName": "sphinx",
+          "ecosystem": "PYPI",
+          "version": "8.1.3",
+          "githubOrg": "sphinx-doc",
+          "githubRepo": "sphinx",
+          "githubCommit": "a1510de4777eaa2e569435f95b05f6f3293d7035",
+          "githubTag": "v8.1.3",
+          "githubUrl": "https://github.com/sphinx-doc/sphinx",
+          "source": "build_file:pyproject.toml"
+        },
+        {
+          "packageName": "sphinx-rtd-theme",
+          "ecosystem": "PYPI",
+          "version": "3.0.2",
+          "githubOrg": "readthedocs",
+          "githubRepo": "sphinx_rtd_theme",
+          "githubCommit": "5f03347239fd22a241a5b609ddb2f964c8b429aa",
+          "githubTag": "3.0.2",
+          "githubUrl": "https://github.com/readthedocs/sphinx_rtd_theme",
+          "source": "build_file:pyproject.toml"
+        },
+        {
+          "packageName": "myst-parser",
+          "ecosystem": "PYPI",
+          "version": "4.0.0",
+          "githubOrg": "executablebooks",
+          "githubRepo": "MyST-Parser",
+          "githubCommit": "ce37be5e3ba22786e1cad190237bedc252e78f85",
+          "githubTag": "v4.0.0",
+          "githubUrl": "https://github.com/executablebooks/MyST-Parser",
+          "source": "build_file:pyproject.toml"
+        },
+        {
+          "packageName": "build",
+          "ecosystem": "PYPI",
+          "version": "1.2.2",
+          "githubOrg": "pypa",
+          "githubRepo": "build",
+          "githubCommit": "3b0b5d07077473f5da3f038cf7b74cd2b65d2a98",
+          "githubTag": "1.2.2",
+          "githubUrl": "https://github.com/pypa/build",
+          "source": "build_file:pyproject.toml"
+        },
+        {
+          "packageName": "twine",
+          "ecosystem": "PYPI",
+          "version": "6.0.1",
+          "githubOrg": "pypa",
+          "githubRepo": "twine",
+          "githubCommit": "a723876fd4398be57838873e60867566b6220a53",
+          "githubTag": "6.0.1",
+          "githubUrl": "https://github.com/pypa/twine",
+          "source": "build_file:pyproject.toml"
+        },
+        {
+          "packageName": "typing-extensions",
+          "ecosystem": "PYPI",
+          "version": "4.16.0",
+          "githubOrg": "python",
+          "githubRepo": "typing_extensions",
+          "githubCommit": "f29cd28d8ed7642cafb1d18daf5aa41be6a5c0aa",
+          "githubTag": "4.16.0",
+          "githubUrl": "https://github.com/python/typing_extensions",
+          "source": "lsp",
+          "raw_name": "typing_extensions.py",
+          "install_path": "/home/runner/.local/share/uv/tools/repolex/lib/python3.13/site-packages/typing_extensions.py"
+        }
       ]
     }
   ],
